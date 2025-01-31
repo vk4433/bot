@@ -3,6 +3,7 @@
 ## Overview
 **Talk & Translate** is a speech-to-text translation app that lets users speak in one language, generate content, translate it into another language, and hear the translated audio.
 
+![alt text](<Screenshot 2025-01-31 231012.png>)
 ## Features 🚀
 - 🎙️ **Real-time Speech Recognition**: Capture and convert spoken words into text.
 - 🌍 **Multi-Language Support**: Detect and translate speech into various languages.
@@ -65,5 +66,7 @@ Pull requests are welcome! Feel free to open an issue if you have suggestions or
 
 ## License 📜
 This project is licensed under the MIT License.
+
+
 
 
