@@ -1,0 +1,10 @@
+streamlit==1.41.1
+deep_translator
+SpeechRecognition
+langdetect
+gTTS
+PyAudio
+python-dotenv
+google.generativeai
+langchain_core
+langchain_google_genai

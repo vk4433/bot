@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.env
 
 # C extensions
 *.so
@@ -32,6 +33,7 @@ MANIFEST
 *.manifest
 *.spec
 
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -50,6 +52,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+.env
 
 # Translations
 *.mo
